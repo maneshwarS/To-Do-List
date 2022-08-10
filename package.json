@@ -9,7 +9,8 @@
   "author": "Maneshwar Singh",
   "license": "ISC",
   "engines": {
-    "node": "16.15.1"
+    "node": "16.15.1",
+    "npm": "8.11.0"
   },
   "dependencies": {
     "body-parser": "^1.20.0",
